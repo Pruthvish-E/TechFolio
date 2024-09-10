@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fb293d09.css",
+    "main.js": "/static/js/main.4a12dcae.js",
+    "static/css/725.9f3f988c.chunk.css": "/static/css/725.9f3f988c.chunk.css",
+    "static/js/725.3f1566ce.chunk.js": "/static/js/725.3f1566ce.chunk.js",
+    "static/js/219.af214b03.chunk.js": "/static/js/219.af214b03.chunk.js",
+    "static/media/avatar.jpg": "/static/media/avatar.ae7d2225a869132ac858.jpg",
+    "static/media/avatar2.jpeg": "/static/media/avatar2.a409803087a4fd213e35.jpeg",
+    "static/media/dummy-project.png": "/static/media/dummy-project.54243c781f4363dae747.png",
+    "static/media/ayin_qoph2.png": "/static/media/ayin_qoph2.026eb35694c16712d473.png",
+    "static/media/ayin_qoph.png": "/static/media/ayin_qoph.bd3174d92c23eed905d7.png",
+    "static/media/babusoft.png": "/static/media/babusoft.bd3174d92c23eed905d7.png",
+    "static/media/logoPruthvish.png": "/static/media/logoPruthvish.bd3174d92c23eed905d7.png",
+    "static/media/defaultAvatar.svg": "/static/media/defaultAvatar.429a0fc0affdd5121beb.svg",
+    "static/media/focused_working.svg": "/static/media/focused_working.717783ca7c5e500508d83e7364cd1d12.svg",
+    "static/media/contact.svg": "/static/media/contact.2ef2b8d53f007f6a15122a6cccc4718a.svg",
+    "index.html": "/index.html",
+    "main.fb293d09.css.map": "/static/css/main.fb293d09.css.map",
+    "main.4a12dcae.js.map": "/static/js/main.4a12dcae.js.map",
+    "725.9f3f988c.chunk.css.map": "/static/css/725.9f3f988c.chunk.css.map",
+    "725.3f1566ce.chunk.js.map": "/static/js/725.3f1566ce.chunk.js.map",
+    "219.af214b03.chunk.js.map": "/static/js/219.af214b03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb293d09.css",
+    "static/js/main.4a12dcae.js"
+  ]
+}
