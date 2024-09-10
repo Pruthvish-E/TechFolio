@@ -56,7 +56,7 @@ function Navbar() {
                 <p>Skills</p>
               </ScrollTo>
             </li>
-            <li>
+            {/* <li>
               <ScrollTo
                 to="openSources"
                 spy={true}
@@ -81,7 +81,7 @@ function Navbar() {
               >
                 <p>Project</p>
               </ScrollTo>
-            </li>
+            </li> */}
             <li>
               <ScrollTo
                 to="experiences"

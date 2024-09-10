@@ -233,7 +233,7 @@ const experienceSection = {
     {
       experienceTitle: "Software Engineer Trainee, MindTree ",
       experienceDesc:
-        "",
+        "Developed APIs for  Android applications called journeys of change, Built a machine learning model to generate reports of application users to recommend better milestones for the users",
       experienceDuration: "07/19-12/19",
       experienceTags: ["Android, ", "UI/UX, ", "Web development"],
     },

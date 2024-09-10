@@ -36,7 +36,7 @@ function SideNav() {
             </h3>
           </ScrollTo>
         </li>
-        <li
+        {/* <li
           role="presentation"
           className={current === "github" ? "active" : ""}
         >
@@ -57,14 +57,14 @@ function SideNav() {
               Projects
             </h3>
           </ScrollTo>
-        </li>
+        </li> */}
 
         <li
           role="presentation"
           className={current === "experiences" ? "active" : ""}
         >
           <ScrollTo to="experiences" spy={true} smooth={true} duration={1000}>
-            <span className="nav__counter">06</span>
+            <span className="nav__counter">04</span>
             <h3 className="nav__title nav__title--stroke nav__title--shadow">
               Experiences
             </h3>
@@ -75,7 +75,7 @@ function SideNav() {
           className={current === "contact" ? "active" : ""}
         >
           <ScrollTo to="contact" spy={true} smooth={true} duration={1000}>
-            <span className="nav__counter">07</span>
+            <span className="nav__counter">05</span>
             <h3 className="nav__title nav__title--stroke nav__title--shadow">
               Contact
             </h3>
