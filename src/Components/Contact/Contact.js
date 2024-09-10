@@ -16,12 +16,12 @@ function Contact() {
     return (
       <Col xs={12} key={i}>
         <h2 className="contact_section_contact">
-          <img
+          {/* <img
             draggable="false"
             className="emoji"
             alt="💠"
             src="https://twemoji.maxcdn.com/v/13.0.0/72x72/1f4d2.png"
-          />
+          /> */<span></span>}
           {contact}
         </h2>
       </Col>

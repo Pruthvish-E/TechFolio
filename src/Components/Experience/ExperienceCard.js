@@ -44,8 +44,9 @@ function ExperienceCard({ experience }) {
         <div className="languages">
           <div className="languages-profile">
             <div className="languages-name">
+            Prominent Skills Used: 
               {experience.experienceTags.map((tag, i) => {
-                return <span key={i}>{tag}</span>;
+                return <span key={i}> {tag} </span>;
               })}
             </div>
           </div>

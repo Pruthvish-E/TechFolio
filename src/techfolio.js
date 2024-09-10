@@ -80,9 +80,9 @@ const aboutSection = {
 const skillsSection = {
   // Recommended : don't add more than 3 skill taglines.
   skillsTagLines: [
-    "Excitable towards giving breath to different mockup PSDs and web designs using Html / Css and Scss.",
-    "Love to Build Scalable web and native application using React with the several stacks, packages, and services.",
-    "Also Passionate towards other stuff like WordPress development, python scripting, and Dev-Ops.",
+    "Tech and AI Innovator: Creating Cutting-Edge Tech and AI from Scratch to Success",
+    "Scaling Vision: Turning Ideas into High-Impact Products",
+    "Strategic Leadership: Transforming Concepts into Market-Ready Solutions",
   ],
 
   // Recommended : don't add more than 12 skills.
@@ -90,42 +90,42 @@ const skillsSection = {
   //        > copy its class > paste it as {fontAwesomeClassname: "fab fa-html5"} in SkillsSet
 
   skillsSet: [
-    {
-      fontAwesomeClassname: "fab fa-html5",
-    },
-    {
-      fontAwesomeClassname: "fab fa-css3-alt",
-    },
-    {
-      fontAwesomeClassname: "fab fa-sass",
-    },
-    {
-      fontAwesomeClassname: "fab fa-js",
-    },
-    {
-      fontAwesomeClassname: "fab fa-react",
-    },
-    {
-      fontAwesomeClassname: "fab fa-node",
-    },
-    {
-      fontAwesomeClassname: "fab fa-npm",
-    },
-    {
-      fontAwesomeClassname: "fas fa-fire",
-    },
-    {
-      fontAwesomeClassname: "fab fa-wordpress",
-    },
-    {
-      fontAwesomeClassname: "fab fa-python",
-    },
-    {
-      fontAwesomeClassname: "fab fa-linux",
-    },
-    {
-      fontAwesomeClassname: "fab fa-docker",
-    },
+    // {
+    //   fontAwesomeClassname: "fab fa-html5",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-css3-alt",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-sass",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-js",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-react",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-node",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-npm",
+    // },
+    // {
+    //   fontAwesomeClassname: "fas fa-fire",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-wordpress",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-python",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-linux",
+    // },
+    // {
+    //   fontAwesomeClassname: "fab fa-docker",
+    // },
   ],
 };
 
@@ -140,7 +140,7 @@ const openSourceSection = {
 
   githubUserName: "Pruthvish-E",
   //Note :  no of open source projects you want to show.
-  numberOfRepos: 6,
+  numberOfRepos: 0,
 };
 
 /*=====================
@@ -150,39 +150,39 @@ const openSourceSection = {
 
 const projectsSection = {
   projects: [
-    {
-      projectName: "BubuSoft",
-      projectBio:
-        "DREAM BIG, ACT NOW ––– is the new motto. BabuSoft a bird’s eye view of the tech industry for all the novel ideas that you can turn into reality",
+    // {
+    //   projectName: "BubuSoft",
+    //   projectBio:
+    //     "DREAM BIG, ACT NOW ––– is the new motto. BabuSoft a bird’s eye view of the tech industry for all the novel ideas that you can turn into reality",
 
-      projectUrl: "https://babusoft.netlify.app/",
-      stackList: ["React", "Ant Design", "Sass", "Device Detect"],
-    },
-    {
-      projectName: "E-Trans Pakistan",
-      projectBio:
-        "E-Trans Pakistan emerge as first in its class within the city of Karachi in Sindh, offering chauffeur-driven services.",
+    //   projectUrl: "https://babusoft.netlify.app/",
+    //   stackList: ["React", "Ant Design", "Sass", "Device Detect"],
+    // },
+    // {
+    //   projectName: "E-Trans Pakistan",
+    //   projectBio:
+    //     "E-Trans Pakistan emerge as first in its class within the city of Karachi in Sindh, offering chauffeur-driven services.",
 
-      projectUrl: "https://etranspakistan.com/",
-      stackList: ["Wordpress", "plugins", "css"],
-    },
-    {
-      projectName: "Covid-19 Tracker",
-      projectBio:
-        "Covid-19 is an real-time web application which give real-time update about the corono-virus cases in the world build on ReactJs",
+    //   projectUrl: "https://etranspakistan.com/",
+    //   stackList: ["Wordpress", "plugins", "css"],
+    // },
+    // {
+    //   projectName: "Covid-19 Tracker",
+    //   projectBio:
+    //     "Covid-19 is an real-time web application which give real-time update about the corono-virus cases in the world build on ReactJs",
 
-      projectUrl: "https://orthocovid-19.netlify.app/",
-      stackList: ["React", "Ant Design", "Sass", "AmCharts", "GeoData"],
-    },
+    //   projectUrl: "https://orthocovid-19.netlify.app/",
+    //   stackList: ["React", "Ant Design", "Sass", "AmCharts", "GeoData"],
+    // },
 
-    {
-      projectName: "Cheating Detector",
-      projectBio:
-        "Cheating Detector Desktop app checks the similarity b/w different PDFs,documents ,images and text",
+    // {
+    //   projectName: "Cheating Detector",
+    //   projectBio:
+    //     "Cheating Detector Desktop app checks the similarity b/w different PDFs,documents ,images and text",
 
-      projectUrl: "/",
-      stackList: ["Electron", "Python", "Open Cv", "OCR", "Flask"],
-    },
+    //   projectUrl: "/",
+    //   stackList: ["Electron", "Python", "Open Cv", "OCR", "Flask"],
+    // },
   ],
 };
 
@@ -194,27 +194,55 @@ const projectsSection = {
 const experienceSection = {
   experiences: [
     {
-      experienceTitle: "React Boot Camper",
+      experienceTitle: "Co-Founder, CTO, Datence Technologies",
       experienceDesc:
-        "Successfully learned to React from 0%. Developed and Implement different React projects in the group. Improved communication skills while interacting with people of a different caliber.",
+        "Developing Abyd a DIY legal compliance kit for startups and firms from scratch using the latest tech,Building the data protection and privacy legal architecture report generation AI.",
       // Recommended : don't add full date.
-      experienceDuration: "12/18-05/19",
+      experienceDuration: "07/24-*",
       // Recommended : don't add more than 3 tags.
-      experienceTags: ["Panacloud", "5 months", "karachi"],
+      experienceTags: [" LegalTech, ", "GenAi, ", "Team management"],
     },
     {
-      experienceTitle: "Wordpress Intern",
+      experienceTitle: "Senior Software Engineer , Arista Networks ",
       experienceDesc:
-        "Improved remotely managing skills by giving 20+ hours per week. Expanded knowledge of creating static and responsive sites using WordPress.",
-      experienceDuration: "10/19-11/19",
-      experienceTags: ["Interns Pk", "1.5 month", "Remote"],
+        "Worked as a part of Sand Vxlan team ,Implemented Vxlan Mlag Multi Vtep software for Arista switches,Implemented PIM Over GRE on Arista switches. ",
+      experienceDuration: "07/21-07/24",
+      experienceTags: ["Full Stack Development, ", "Networking, ", "System Design"],
     },
     {
-      experienceTitle: "Competition Manager",
+      experienceTitle: "Technology and Business Growth Advisor",
       experienceDesc:
-        "Manages the competition team and Ensures everyone is satisfied. Design and develop innovative competition for ITEC and reexamines it.",
-      experienceDuration: "Current",
-      experienceTags: ["ACM", "12/2018-5/2019", "NEDUET"],
+        "I led a series of initiatives that significantly advanced the company’s technological capabilities, positioning it for sustainable growth.",
+      experienceDuration: "08/22-*",
+      experienceTags: ["Startup, ", "Business Growth, ", "leadership"],
+    },
+    {
+      experienceTitle: "Research Intern, Indian Institute of Science(IISc)",
+      experienceDesc:
+        "Worked in the field of artificial intelligence developing domain adaptation models in IISc VAL labs, Developed state-of-the-art algorithms and models for source-free domain adaptation.",
+        experienceDuration: "01/21-06/21",
+        experienceTags: ["Research, ", "AI, ", "State-of-the-art"],
+    },
+    {
+      experienceTitle: "Member of Technical Staff, DeNews",
+      experienceDesc:
+        "Developed a completely decentralized and distributed machine learning algorithm to rank sources of articles and credit scores of users which impacts the truth value of an article with other NLP and machine learning algorithms for detecting fake NEWS.",
+      experienceDuration: "06/20-08/21",
+      experienceTags: ["Distributed Systems, ", "Advanced algorithms, ", "ML"],
+    },
+    {
+      experienceTitle: "Software Engineer Trainee, MindTree ",
+      experienceDesc:
+        "",
+      experienceDuration: "07/19-12/19",
+      experienceTags: ["Android, ", "UI/UX, ", "Web development"],
+    },
+    {
+      experienceTitle: "Machine Learning Researcher, CDSAML ",
+      experienceDesc:
+        "Developed a machine learning model to classify materials based on their reflectance property, Implemented a deep learning model to Check the quality of materials using only images of the material.",
+      experienceDuration: "05/18-08/20",
+      experienceTags: ["Research, ", "AI, ", "Product management "],
     },
   ],
 };
@@ -226,9 +254,9 @@ const experienceSection = {
 
 const contactSection = {
   contactTagline:
-    "Hey Folks, Love to see you sliding here, Y'all can reach me.",
+    "Hey Folks, Let's Connect: Empowering Innovation Together.",
   // Note : add your all contacts in the contactList seperating with *,* .
-  contactList: ["03461826315", "a.qadir67@outlook.com"],
+  contactList: [ "umapruthvish@gmail.com" ],
 };
 
 

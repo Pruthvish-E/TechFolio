@@ -22,12 +22,13 @@ function Skills() {
   const skillsTagLines = skillsSection.skillsTagLines.map((tagline, i) => {
     return (
       <h3 className="skills_section_skill" key={i}>
-        <img
+        {/* <img
           draggable="false"
           className="emoji"
           alt="💠"
-          src="https://twemoji.maxcdn.com/v/13.0.0/72x72/26a1.png"
-        ></img>
+          src=""
+        ></img> */
+        <div>💠</div>}
         {tagline}
       </h3>
     );
