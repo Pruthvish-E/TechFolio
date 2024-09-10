@@ -18,10 +18,10 @@ import emoji from "react-easy-emoji";
 ==========================*/
 
 const app = {
-  title: "AbdulQadir Portfolio",
+  title: "Pruthvish's Portfolio",
   // Note : consider leaving null if you dont have any head icon
-  icon: "ayin_qoph.png",
-  description: "An ordinary karachitte Web Developer, Mobile Shutterbug, and Writer.",
+  icon: "logoPruthvish.png",
+  description: "Tech leader and entrepreneur",
 };
 
 /*=====================
@@ -31,10 +31,10 @@ const app = {
 
 const socialNetworks = {
   //Note : if you dont need or have any social network just add null value
-  github: "https://github.com/AQadir64",
-  linkden: null,
-  facebook: "https://www.facebook.com/profile.php?id=100006896625330",
-  instagram: "https://www.instagram.com/_ayin_qoph/",
+  github: "https://github.com/Pruthvish-E",
+  linkden: "https://www.linkedin.com/in/pruthvishe/",
+  facebook: null,
+  instagram: null,
   twitter: null,
 };
 
@@ -44,17 +44,17 @@ const socialNetworks = {
 ==========================*/
 
 const bannerSection = {
-  username: "Abdul Qadir",
-  bannerHeading: "Marhabaan.",
+  username: "Pruthvish Eshwar",
+  bannerHeading: "Tech visionary",
   bannerTagLine: emoji(
-    "An ordinary karachitte Web Developer, Mobile Shutterbug, and Writer 😀 Who loves to play with different stacks and love to give breath to Ui/Ux designs."
+    "Empowering innovation, driving growth, and building the future with adaptive technology and AI-driven leadership."
   ),
   //Note:Simply add you avatar image in src/assets/imgs folder 
   //and add the name along with extention e.g xyz.png , abc.svg
   //Note : if you want to use default illustration instead of adding your avatar add defaultAvatar.svg
-  bannerAvatar: "avatar.jpeg",
+  bannerAvatar: "avatar.jpg",
   resumeLink:
-    "https://drive.google.com/file/d/1C9wylYtAU9NbZaBwmQ6uGmNWmWS8_I6F/view?usp=sharing",
+    "https://drive.google.com/file/d/1ceSqypoSipvmRkqJou2ovKRrGwVJahgI/view?usp=sharing",
 };
 
 /*=====================
@@ -65,11 +65,11 @@ const bannerSection = {
 ==========================*/
 
 const aboutSection = {
-  admin: "ayin_qoph@ayin_qoph",
+  admin: "pruthvish@pruthvish",
   firstCommand: " sudo run about.exe",
   secondCommand: " executing about.exe",
   about:
-    "Computer Science Student and Full Stack Developer. Passionate about solving problems that will benefit others in the area of IT or in real life. from haven't think about computer science and then picking it as a carrier back in 2017 I have discovered a lot in this system. But outside it, I'm just an ordinary karachitte man who loves to do mobile photography and write thoughts.",
+    "I am Pruthvish Eshwar, a technology leader with 10 years of experience in building innovative tech products from taking them from 0 to 1 and scaling them from 1 to 100 using my adaptive and a wide range of tech expertise, leadership and strategy skills. A gold medalist in BTech Computer Science and an MBA in Leadership and Strategy using AI, I am currently pursuing a PhD in Business Administration focused on AI. My passion lies in entrepreneurship, guiding teams, and developing Tech and AI-driven solutions to create impactful and scalable businesses. My achievements include being among the top 100 coders in the ACM contest, building complex products from stratch and driving significant revenue growth for companies.",
 };
 
 /*=====================
@@ -138,7 +138,7 @@ const openSourceSection = {
   //Note :  don't edit the githubToken
   githubToken: process.env.REACT_APP_GITHUB_ACCESS_TOKEN,
 
-  githubUserName: "AQadir64",
+  githubUserName: "Pruthvish-E",
   //Note :  no of open source projects you want to show.
   numberOfRepos: 6,
 };

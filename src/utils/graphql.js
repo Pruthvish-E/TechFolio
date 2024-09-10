@@ -2,7 +2,7 @@
     Fetch Repo Query
 ==========================*/
 
-import { gql } from "apollo-boost";
+import { gql } from '@apollo/client';
 export const FETCH_REPOS = gql`
   query FetchQuery($login: String!, $first: Int!) {
     user(login: $login) {

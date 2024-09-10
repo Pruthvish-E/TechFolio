@@ -6,7 +6,7 @@ import "./github.css";
 import { Row } from "react-flexbox-grid";
 import { ScrollContext } from "../../Context/scroll";
 import { FETCH_REPOS } from "../../utils/graphql.js";
-import { useQuery } from "react-apollo";
+import { useQuery } from  '@apollo/client';
 import { openSourceSection, socialNetworks } from "../../techfolio";
 import Message from "./Message";
 import Heading from "../common/Heading";
