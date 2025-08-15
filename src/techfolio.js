@@ -194,11 +194,20 @@ const projectsSection = {
 const experienceSection = {
   experiences: [
     {
+      experienceTitle: "Founder CEO, EUPH TECHNOLOGIES PRIVATE LIMITED",
+      experienceDesc:
+        "Building Vibebiv the next generation of social media platform",
+      // Recommended : don't add full date.
+      experienceDuration: "06/25-*",
+      // Recommended : don't add more than 3 tags.
+      experienceTags: [" Social media, ", "Full stack development, ", "Leadership and Management"],
+    },
+    {
       experienceTitle: "Co-Founder, CTO, Datence Technologies",
       experienceDesc:
         "Developing Abyd a DIY legal compliance kit for startups and firms from scratch using the latest tech,Building the data protection and privacy legal architecture report generation AI.",
       // Recommended : don't add full date.
-      experienceDuration: "07/24-*",
+      experienceDuration: "07/24-06/25",
       // Recommended : don't add more than 3 tags.
       experienceTags: [" LegalTech, ", "GenAi, ", "Team management"],
     },
